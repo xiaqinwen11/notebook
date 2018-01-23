@@ -10,7 +10,7 @@
 
 
 # Table of contents (for 200 entries)    
-* [Page 1:   2016-06-08](#id-section1). Title of entry
+* [Page 1:   2018-01-22](#id-section1). workshop of github
 * [Page 2:   2016-6-16](#id-section2). Title 3
 * [Page 3:  ](#id-section3).
 * [Page 4:  ](#id-section4).
@@ -217,9 +217,29 @@
 
 <div id='id-section1'/>    
     
-### Page 1: 2016-07-08.  test      
-
-
+### Page 1: 2018-01-22.  github workshop with lab  
+   download textwrangler (BBEdit)    
+1. create a notebook
+   A:go to Andrew's notebook and click and copy his template (raw)
+   B: create a new repository in github desktop, named "notebook"
+      publish it when created, and don't check the public box (free for students)
+   C: create a file in textwrangler and paste the template and saved with 2018notebook
+      in desktop, .md
+   D: drag the 2018notebook to the notebook folder
+   E: go to github desktop and right click-open in finder-edit in textwrangler
+   F: commit a change 
+   
+2. create a webpage
+   A: search html5 free template on google
+   B: download one you like, live demo before download to see if you like or notebook
+   C: i downloaded "twenty"
+   D: in github desktop, create a new repository named "xiaqinwen11.github.io"
+      it is the webpage address, which need to be named the same with your github username
+   E: open the "twenty"folder, and cope all the files into "xiaqinwen11.github.io" folder
+   F: right click "xiaqinwen11.github.io" -open in finder-right click "index.html"-open
+      in BBEdit and now you can edit your own webpage
+      
+3. Whenever make a change, comment and commit and pull origin
 
 ------
 
