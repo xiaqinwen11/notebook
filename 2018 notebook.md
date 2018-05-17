@@ -15,7 +15,7 @@
 =======
 * [Page 1:   2018-01-22]creat notebook 
 * [Page 2:   2018-05-17 notes on edit your notebook
-* [Page 3:  ](#id-section3).
+* [Page 3:  ]2018-5-17 add note on attach documents
 * [Page 4:  ](#id-section4).
 * [Page 5:  ](#id-section5).
 * [Page 6:  ](#id-section6).
@@ -260,7 +260,12 @@
 
 <div id='id-section3'/>    
     
-### Page 3:  
+### Page 3:  2018-05-17
+1. you can creat a new repository, and name it
+2. right open-show in explorer
+3. more the document into the folder 
+4. commit change and pull fetch
+5. open your github website and you will get the website link
 
 ------
 
