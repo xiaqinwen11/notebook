@@ -14,7 +14,7 @@
 * [Page 1:   2018-01-22](#id-section1). workshop of github
 =======
 * [Page 1:   2018-01-22]creat notebook 
-* [Page 2:   2016-6-16](#id-section2). Title 3
+* [Page 2:   2018-05-17 notes on edit your notebook
 * [Page 3:  ](#id-section3).
 * [Page 4:  ](#id-section4).
 * [Page 5:  ](#id-section5).
@@ -248,9 +248,14 @@
 
 <div id='id-section2'/>    
     
-### Page 2: 2018-05-17 ecdysteroid sensitivity statistical analysis
-
-
+### Page 2: 2018-05-17 
+1. open github desktop
+2. find your repository "notebook"
+3. right click-show in explorer
+4. edit in 2018 notebook. in microsoft, use word pad or notepad
+                          in Mac, use BBE textwrangler
+5. save before close the word pad
+6. commit change in github desktop
 ------
 
 <div id='id-section3'/>    
