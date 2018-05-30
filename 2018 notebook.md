@@ -16,7 +16,7 @@
 * [Page 1:   2018-01-22]creat notebook 
 * [Page 2:   2018-05-17 notes on edit your notebook
 * [Page 3:  ]2018-5-17 add note on attach documents
-* [Page 4:  ](#id-section4).
+* [Page 4:  ]2018-5-30 attach image to website
 * [Page 5:  ](#id-section5).
 * [Page 6:  ](#id-section6).
 * [Page 7:  ](#id-section7).
@@ -271,8 +271,18 @@
 
 <div id='id-section4'/>    
     
-### Page 4:  
-
+### Page 4:  2018-5-30
+1. open github website
+2. go to "Hahn lab protocol" 
+3. click "issue" and "pictures"
+4. drag your pcitures into the window "leave a comment"
+5. click "comment"
+6, right click the uploaded picture and "copy image address"
+7. then go to github desktop
+8. right click"Hahn lab protocol" open in exploer
+9. find Hahn lab protocol R project
+10 in R, find the part you want to edit, e.g. European corn borer rearing.Rmd 
+11. Copy the image address
 ------
 
 <div id='id-section5'/>    
