@@ -17,7 +17,7 @@
 * [Page 2:   2018-05-17](#id-section2) notes on edit your notebook
 * [Page 3:  ](#id-section3)2018-5-17 add note on attach documents
 * [Page 4:  ](#id-section4)2018-5-30 attach image to website
-* [Page 5:  ](#id-section5).
+* [Page 5:  ](#id-section5).dplyr and tidyr
 * [Page 6:  ](#id-section6).
 * [Page 7:  ](#id-section7).
 * [Page 8:  ](#id-section8).
