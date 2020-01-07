@@ -18,7 +18,7 @@
 * [Page 5:  ](#id-section5).2018-5-30 attach image to website
 * [Page 6:  ](#id-section6).2020-1-7 dplyr and tidyr
 * [Page 7:  ](#id-section7).2020-1-7 many instructions of R plot
-* [Page 8:  ](#id-section8).
+* [Page 8:  ](#id-section8).2020-1-7 data distribution
 * [Page 9:  ](#id-section9).
 * [Page 10:  ](#id-section10).
 * [Page 11:  ](#id-section11).
@@ -311,7 +311,15 @@ https://drsimonj.svbtle.com/mean-and-ci-plot-for-twoway-designs-using-ggplot2
 
 <div id='id-section8'/>    
     
-### Page 8:  
+### Page 8:  2020-1-7 data distribution & model and family
+
+*If your outcome is continuous and unbounded, then the most "default" choice is the Gaussian distribution (a.k.a. normal distribution), i.e. the standard linear regression (unless you use other link function then the default identity link).
+
+*If you are dealing with continuous non-negative outcome, then you could consider the Gamma distribution, or Inverse Gaussian distribution.
+
+*If your outcome is discrete, or more precisely, you are dealing with counts (how many times something happen in given time interval), then the most common choice of the distribution to start with is Poisson distribution. The problem with Poisson distribution is that it is rather inflexible in the fact that it assumes that mean is equal to variance, if this assumption is not met, you may consider using quasi-Poisson family, or negative binomial distribution (see also Definition of dispersion parameter for quasipoisson family).
+
+*If your outcome is binary (zeros and ones), proportions of "successes" and "failures" (values between 0 and 1), or their counts, you can use Binomial distribution, i.e. the logistic regression model. If there is more then two categories, you would use multinomial distribution in multinomial regression.
 
 ------
 
