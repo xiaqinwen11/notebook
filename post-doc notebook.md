@@ -17,7 +17,7 @@
 * [Page 4:  ](#id-section4).2018-5-17 add note on attach documents
 * [Page 5:  ](#id-section5).2018-5-30 attach image to website
 * [Page 6:  ](#id-section6).2020-1-7 dplyr and tidyr
-* [Page 7:  ](#id-section7).
+* [Page 7:  ](#id-section7).2020-1-7 many instructions of R plot
 * [Page 8:  ](#id-section8).
 * [Page 9:  ](#id-section9).
 * [Page 10:  ](#id-section10).
@@ -293,13 +293,19 @@
 
 <div id='id-section6'/>    
     
-### Page 6:  
+### Page 6:  2020-1-7
+dplyr is a package for making tabular data manipulation easier by using a limited set of functions that 
+can be combined to extract and summarize insights from your data. It pairs nicely with tidyr which enables
+ you to swiftly convert between different data formats (long vs. wide) for plotting and analysis.
+data2=data%>%
+  filter(cohort!="1")
 
 ------
 
 <div id='id-section7'/>    
     
-### Page 7:  
+### Page 7:  2020-1-7 plot in R
+https://drsimonj.svbtle.com/mean-and-ci-plot-for-twoway-designs-using-ggplot2
 
 ------
 
