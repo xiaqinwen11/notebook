@@ -11,14 +11,12 @@
 
 # Table of contents (for 200 entries)    
 <<<<<<< HEAD
-* [Page 1:   2018-01-22](#id-section1). workshop of github
-=======
-* [Page 1:   2018-01-22](#id-section1)creat notebook 
-* [Page 2:   2018-05-17](#id-section2) notes on edit your notebook
-* [Page 3:  ](#id-section3)2018-5-17 add note on attach documents
-* [Page 4:  ](#id-section4)2018-5-30 attach image to website
-* [Page 5:  ](#id-section5).dplyr and tidyr
-* [Page 6:  ](#id-section6).
+* [Page 1:   ](#id-section1).2018-01-22 workshop of github               
+* [Page 2:   ](#id-section2).2018-01-22creat notebook
+* [Page 3:  ](#id-section3).2018-05-17notes on edit your notebook
+* [Page 4:  ](#id-section4).2018-5-17 add note on attach documents
+* [Page 5:  ](#id-section5).2018-5-30 attach image to website
+* [Page 6:  ](#id-section6).2020-1-7 dplyr and tidyr
 * [Page 7:  ](#id-section7).
 * [Page 8:  ](#id-section8).
 * [Page 9:  ](#id-section9).
