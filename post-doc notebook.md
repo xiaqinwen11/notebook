@@ -220,15 +220,7 @@
     
 ### Page 1: 2018-01-22.  github workshop with lab  
    download textwrangler (BBEdit)    
-1. create a notebook
-   A:go to Andrew's notebook and click and copy his template (raw)
-   B: create a new repository in github desktop, named "notebook"
-      publish it when created, and don't check the public box (free for students)
-   C: create a file in textwrangler and paste the template and saved with 2018notebook
-      in desktop, .md
-   D: drag the 2018notebook to the notebook folder
-   E: go to github desktop and right click-open in finder-edit in textwrangler
-   F: commit a change 
+
    
 2. create a webpage
    A: search html5 free template on google
@@ -246,7 +238,21 @@
 
 <div id='id-section2'/>    
     
-### Page 2: 2018-05-17 
+### Page 2: 
+1. create a notebook
+   A:go to Andrew's notebook and click and copy his template (raw)
+   B: create a new repository in github desktop, named "notebook"
+      publish it when created, and don't check the public box (free for students)
+   C: create a file in textwrangler and paste the template and saved with 2018notebook
+      in desktop, .md
+   D: drag the 2018notebook to the notebook folder
+   E: go to github desktop and right click-open in finder-edit in textwrangler
+   F: commit a change 
+------
+
+<div id='id-section3'/>    
+    
+### Page 3:  2018-05-17 
 1. open github desktop
 2. find your repository "notebook"
 3. right click-show in explorer
@@ -254,11 +260,12 @@
                           in Mac, use BBE textwrangler
 5. save before close the word pad
 6. commit change in github desktop
+
 ------
 
-<div id='id-section3'/>    
+<div id='id-section4'/>    
     
-### Page 3:  2018-05-17
+### Page 4:  2018-05-17
 1. you can creat a new repository, and name it
 2. right open-show in explorer
 3. more the document into the folder 
@@ -267,10 +274,10 @@
 
 ------
 
-<div id='id-section4'/>    
+<div id='id-section5'/>    
     
-### Page 4:  2018-5-30
-1. open github website
+### Page 5: 2018-5-30
+ 1. open github website
 2. go to "Hahn lab protocol" 
 3. click "issue" and "pictures"
 4. drag your pcitures into the window "leave a comment"
@@ -281,11 +288,6 @@
 9. find Hahn lab protocol R project
 10 in R, find the part you want to edit, e.g. European corn borer rearing.Rmd 
 11. Copy the image address
-------
-
-<div id='id-section5'/>    
-    
-### Page 5:  
 
 ------
 
